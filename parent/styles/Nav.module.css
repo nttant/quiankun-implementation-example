@@ -1,0 +1,24 @@
+.menu {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    border-bottom: 2px solid #2a2a2a;
+    background-color: #2a2a2a;
+    margin: 0;
+    padding: 1rem 2rem;
+}
+
+.menu li {
+    margin-right: 2rem;
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.menu a {
+    color: #ffffff;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+

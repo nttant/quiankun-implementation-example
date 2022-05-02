@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: middle;
+    padding: 2rem;
+    color: #ffffff;
+    background-color: #5514b4;
+}
+
+.heading {
+    font-size: 2rem;
+}
